@@ -1,0 +1,2 @@
+# MajoPostcard
+Postcards for Majo
